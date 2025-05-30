@@ -5,7 +5,7 @@ This repository contains a collection of Go-based small programmes which will be
 ## Structure
 
 ```
-├── cancelNotidyWorker
+├── cancelNotifyWorker
 │   └── main.go
 ├── generate-metamask-signature
 │   ├── dist
