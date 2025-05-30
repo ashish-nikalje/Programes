@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a collection of Go-based CLI utilities and a front-end project that demonstrates various programming techniques including goroutines, concurrency, frequency analysis, and a file system hierarchy visualizer.
+This repository contains a collection of Go-based small programmes which will be helpful for interviews
 
 ## Structure
 
