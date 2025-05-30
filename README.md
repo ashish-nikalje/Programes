@@ -49,7 +49,7 @@ cancelling channel --->  0
 Received cancel signal from 0. Exiting...  1
 ```
 
-[Source Code](./cancelNotidyWorker/main.go)
+[Source Code](./cancelNotifyWorker/main.go)
 
 --- 
 ## generate-metamask-signature
