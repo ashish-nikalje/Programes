@@ -149,7 +149,44 @@ Given a list of file paths, print a visual tree structure representing directori
 
 [Source Code](./printRreeStructure/main.go)
 
+
 ---
+
+## Balanced Brackets
+
+**Problem Statement:**  
+To validate whether the string {[()()()]} has balanced brackets
+
+**Sample Run:**
+```
+code@code Brackets % go run main.go
+--> Valid:  {[(())]}
+--> Valid:  ()()()()
+--> Not Valid:  )()(
+--> Valid:  {[()}]
+--> Not Valid:  ()(
+--> Not Valid:  )()
+```
+
+[Source Code](./is_valid_brackets//main.go)
+
+---
+
+## Sum of 2 numbers Brackets
+
+**Problem Statement:**  
+Find All Unique Pairs That Sum to a Target
+
+**Sample Run:**
+```
+code@code Programes % go run sum_of_2_numbers/main.go
+Matching pairs:
+2 + 4 = 6
+1 + 5 = 6
+3 + 3 = 6
+```
+
+[Source Code](./sum_of_2_numbers/main.go)
 
 ## How to Run
 1. Make sure you have Go installed: https://go.dev/dl/
